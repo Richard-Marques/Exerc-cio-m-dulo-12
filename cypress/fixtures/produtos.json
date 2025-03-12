@@ -1,0 +1,26 @@
+[
+    {
+        "nomeProduto": "Eos V-Neck Hoodie",
+        "tamanho": "M",
+        "cor": "Blue",
+        "quantidade": 7
+    },
+    {
+        "nomeProduto": "Helena Hooded Fleece",
+        "tamanho": "XL",
+        "cor": "Gray",
+        "quantidade": 5
+    },
+    {
+        "nomeProduto": "Grayson Crewneck Sweatshirt",
+        "tamanho": "S",
+        "cor": "Red",
+        "quantidade": 2
+    },
+    {
+        "nomeProduto": "Supernova Sport Pant",
+        "tamanho": "33",
+        "cor": "Green",
+        "quantidade": 10
+    }
+]
